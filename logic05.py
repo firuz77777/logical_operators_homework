@@ -7,4 +7,4 @@ def main(a,b):
     Returns:
         bool: answer
     """
-    return
+    return a and b % 2 == 1
