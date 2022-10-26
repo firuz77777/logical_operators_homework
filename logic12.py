@@ -6,4 +6,4 @@ def main(a):
     Returns:
         bool: answer
     """
-    return a // 10 and a % 10
+    return a // 10 == a % 10
